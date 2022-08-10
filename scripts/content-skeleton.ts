@@ -44,6 +44,7 @@ const roadmaps: Record<string, RoadmapType> = {
   python: require('../public/project/python.json'),
   react: require('../public/project/react.json'),
   angular: require('../public/project/angular.json'),
+  "mongodb": require('../public/project/mongodb.json')
 };
 
 if (!roadmapKey || !roadmaps[roadmapKey]) {
