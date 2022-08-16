@@ -1,5 +1,112 @@
 {
+  "advanced:archive-data": "/roadmaps/27017-mongodb/content/230-advanced-archive-data.md",
+  "advanced:expire-data": "/roadmaps/27017-mongodb/content/230-advanced-expire-data.md",
+  "advanced:fts": "/roadmaps/27017-mongodb/content/230-advanced-fts.md",
+  "advanced:geo": "/roadmaps/27017-mongodb/content/230-advanced-geo.md",
+  "advanced:gridfs": "/roadmaps/27017-mongodb/content/230-advanced-gridfs.md",
+  "advanced:triggers": "/roadmaps/27017-mongodb/content/230-advanced-triggers.md",
+  "advanced": "/roadmaps/27017-mongodb/content/230-advanced.md",
+  "basics:connections": "/roadmaps/27017-mongodb/content/203-basics-connections.md",
+  "basics:crud": "/roadmaps/27017-mongodb/content/203-basics-crud.md",
+  "basics:document-model": "/roadmaps/27017-mongodb/content/203-basics-document-model.md",
+  "basics:indexing": "/roadmaps/27017-mongodb/content/203-basics-indexing.md",
+  "basics": "/roadmaps/27017-mongodb/content/203-basics.md",
+  "core:replication": "/roadmaps/27017-mongodb/content/220-core-replication.md",
+  "core:security": "/roadmaps/27017-mongodb/content/220-core-security.md",
+  "core:sharding": "/roadmaps/27017-mongodb/content/220-core-sharding.md",
+  "core:transactions": "/roadmaps/27017-mongodb/content/220-core-transactions.md",
+  "core": "/roadmaps/27017-mongodb/content/220-core.md",
+  "data:aggregation": "/roadmaps/27017-mongodb/content/230-data-aggregation.md",
+  "data:changestreams": "/roadmaps/27017-mongodb/content/230-data-changestreams.md",
+  "data:timeseries": "/roadmaps/27017-mongodb/content/230-data-timeseries.md",
+  "data": "/roadmaps/27017-mongodb/content/230-data",
+  "deeper": "/roadmaps/27017-mongodb/content/219-deeper.md",
+  "deploy:atlas": "/roadmaps/27017-mongodb/content/202-deploy-atlas.md",
+  "deploy:community": "/roadmaps/27017-mongodb/content/202-deploy-community.md",
+  "deploy:enterprise": "/roadmaps/27017-mongodb/content/202-deploy-enterprise.md",
+  "deploy": "/roadmaps/27017-mongodb/content/202-deploy.md",
+  "drivers:c": "/roadmaps/27017-mongodb/content/101-drivers-c.md",
+  "drivers:cpp": "/roadmaps/27017-mongodb/content/101-drivers-cpp.md",
+  "drivers:csharp": "/roadmaps/27017-mongodb/content/101-drivers-csharp.md",
+  "drivers:go": "/roadmaps/27017-mongodb/content/101-drivers-go.md",
+  "drivers:java": "/roadmaps/27017-mongodb/content/101-drivers-java.md",
+  "drivers:node": "/roadmaps/27017-mongodb/content/101-drivers-node.md",
+  "drivers:php": "/roadmaps/27017-mongodb/content/101-drivers-php.md",
+  "drivers:python": "/roadmaps/27017-mongodb/content/101-drivers-python.md",
+  "drivers:ruby": "/roadmaps/27017-mongodb/content/101-drivers-ruby.md",
+  "drivers:rust": "/roadmaps/27017-mongodb/content/101-drivers-rust.md",
+  "drivers:scala": "/roadmaps/27017-mongodb/content/101-drivers-scala.md",
+  "drivers:swift": "/roadmaps/27017-mongodb/content/101-drivers-swift.md",
+  "drivers": "/roadmaps/27017-mongodb/content/101-drivers.md",
+  "frameworks:doctrine": "/roadmaps/27017-mongodb/content/110-frameworks-doctrine.md",
+  "frameworks:spring-data": "/roadmaps/27017-mongodb/content/110-frameworks-spring-data.md",
+  "frameworks": "/roadmaps/27017-mongodb/content/110-frameworks.md",
   "home": "/roadmaps/27017-mongodb/content/readme.md",
-  "drivers": "/roadmaps/27017-mongodb/content/100-drivers/readme.md",
-  "drivers:c": "/roadmaps/27017-mongodb/content/100-drivers/101-drivers-c.md"
+  "keep-learning": "/roadmaps/27017-mongodb/content/250-keep-learning.md",
+  "odms:mongoengine": "/roadmaps/27017-mongodb/content/120-odms-mongoengine.md",
+  "odms:mongoid": "/roadmaps/27017-mongodb/content/120-odms-mongoid.md",
+  "odms:mongoose": "/roadmaps/27017-mongodb/content/120-odms-mongoose.md",
+  "odms:morphia": "/roadmaps/27017-mongodb/content/120-odms-morphia.md",
+  "odms": "/roadmaps/27017-mongodb/content/120-odms.md",
+  "optimize:connection-pools": "/roadmaps/27017-mongodb/content/240-optimize-connection-pools.md",
+  "optimize:logging": "/roadmaps/27017-mongodb/content/240-optimize-logging.md",
+  "optimize:monitoring": "/roadmaps/27017-mongodb/content/240-optimize-monitoring.md",
+  "optimize:resilience": "/roadmaps/27017-mongodb/content/240-optimize-resilience.md",
+  "optimize": "/roadmaps/27017-mongodb/content/240-optimize.md",
+  "pickalanguage": "/roadmaps/27017-mongodb/content/100-pickalanguage.md"
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
