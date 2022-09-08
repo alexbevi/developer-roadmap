@@ -1,5 +1,5 @@
 {
-  "advanced:archive-data": "/roadmaps/27017-mongodb/content/230-advanced-archive-data.md",
+  "python:gettingstarted": "/roadmaps/27017-mongodb/content/230-advanced-archive-data.md",
   "advanced:expire-data": "/roadmaps/27017-mongodb/content/230-advanced-expire-data.md",
   "advanced:fts": "/roadmaps/27017-mongodb/content/230-advanced-fts.md",
   "advanced:geo": "/roadmaps/27017-mongodb/content/230-advanced-geo.md",
