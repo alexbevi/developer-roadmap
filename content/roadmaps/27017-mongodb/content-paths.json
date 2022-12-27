@@ -5,6 +5,7 @@
   "advanced:geo": "/roadmaps/27017-mongodb/content/230-advanced-geo.md",
   "advanced:gridfs": "/roadmaps/27017-mongodb/content/230-advanced-gridfs.md",
   "advanced:triggers": "/roadmaps/27017-mongodb/content/230-advanced-triggers.md",
+  "advanced:archive-data": "/roadmaps/27017-mongodb/content/230-advanced-archive-data.md",
   "advanced": "/roadmaps/27017-mongodb/content/230-advanced.md",
   "basics:connections": "/roadmaps/27017-mongodb/content/203-basics-connections.md",
   "basics:crud": "/roadmaps/27017-mongodb/content/203-basics-crud.md",
