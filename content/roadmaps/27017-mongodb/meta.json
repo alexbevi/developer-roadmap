@@ -30,9 +30,9 @@
     ]
   },
   "title": "MongoDB",
-  "description": "Step by step guide to becoming a modern backend developer in 2022",
+  "description": "Step by step guide to learning MongoDB in 2023",
   "featuredTitle": "MongoDB",
-  "featuredDescription": "Step by step guide to becoming a backend developer in 2022",
+  "featuredDescription": "Step by step guide to learning MongoDB in 2023",
   "featured": true,
   "imageUrl": "/roadmaps/mongodb.png",
   "jsonUrl": "/project/mongodb.json",
